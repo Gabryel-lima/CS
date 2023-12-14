@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+void HelloWorld() {
+    Console.WriteLine("Hello, World!");
+}
+
+void Main() {
+    HelloWorld();
+}
+
+Main();
