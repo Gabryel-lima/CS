@@ -1,0 +1,15 @@
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\bin\Debug\net8.0\Curso1.exe
+c:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\bin\Debug\net8.0\Curso1.deps.json
+c:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\bin\Debug\net8.0\Curso1.runtimeconfig.json
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\bin\Debug\net8.0\Curso1.dll
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\bin\Debug\net8.0\Curso1.pdb
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\obj\Debug\net8.0\Curso1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\obj\Debug\net8.0\Curso1.AssemblyInfoInputs.cache
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\obj\Debug\net8.0\Curso1.AssemblyInfo.cs
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\obj\Debug\net8.0\Curso1.csproj.CoreCompileInputs.cache
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\obj\Debug\net8.0\Curso1.sourcelink.json
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\obj\Debug\net8.0\Curso1.dll
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\obj\Debug\net8.0\refint\Curso1.dll
+C:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\obj\Debug\net8.0\Curso1.pdb
+c:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\obj\Debug\net8.0\Curso1.genruntimeconfig.cache
+c:\Users\gabry\OneDrive\Área de Trabalho\C#\Curso1\obj\Debug\net8.0\ref\Curso1.dll
